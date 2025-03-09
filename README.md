@@ -16,5 +16,3 @@ AbduAuth is a Python-based authentication system that supports user management, 
 - MySQL database
 - Required packages (install via pip):
 
-  ```bash
-  pip install mysql-connector-python tabulate
